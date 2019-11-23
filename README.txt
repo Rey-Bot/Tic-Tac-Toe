@@ -10,5 +10,7 @@ keyboard. i.e.
 4 | 5 | 6
 ---------
 1 | 2 | 3
----------
-By using the above format we can place the markers on the board.
+
+By using the above format we can place the markers on the board. Game ends if three markers appear together in a line, and the player who achieves it first wins. You can restart the game if you want and also exit the game.
+
+# ENJOY!!!

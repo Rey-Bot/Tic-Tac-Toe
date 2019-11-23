@@ -10,7 +10,7 @@ def game_board(board):
 	print('  '+board[1]+' ' + '|' + '  '+board[2]  + '  |'+' ' + board[3])
 	print('    |     |')
 
-'test_board=['#','X','O','X','O','X','O','X','O','X']'
+#test_board=['#','X','O','X','O','X','O','X','O','X']
 #game_board(test_board)
 
 def player_input():

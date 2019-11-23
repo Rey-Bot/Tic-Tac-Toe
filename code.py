@@ -83,7 +83,7 @@ def replay():
 	
 
 
-print("**********Let's Play Tic Toc**********")
+print("**********Let's Play Tic Tac Toe**********")
 while True:
 	the_Board=[' ']*10
 	player1_marker,player2_marker=player_input()
